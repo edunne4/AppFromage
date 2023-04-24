@@ -58,6 +58,10 @@ body {
 	margin-bottom:40px;
 }
 
+.legalText {
+	text-align: left;
+}
+
 /* FOOTER */
 
 #footerLinks {
